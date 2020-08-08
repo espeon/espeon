@@ -1,4 +1,4 @@
-### 👋 hey, i'm emma!
+### 👋 hey, i'm emma! <a href="iriie.io">🐱‍💻</a>
 
 here's what i'm currently listening to!! (or just my latest track on last.fm!):
 
@@ -24,6 +24,7 @@ Me on other places:
   <img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" height="30px">
     </a>
   <a href="https://twitch.tv/notkanbaru"><img alt="Twitch" title="Twitch" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>
+    <a href="https://linkedin.com/in/kanbaru"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 </p>
 <!--
 **notkanbaru/notkanbaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
