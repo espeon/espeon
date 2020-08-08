@@ -25,5 +25,5 @@ Me on other places:
     </a>
   <a href="https://twitch.tv/notkanbaru"><img alt="Twitch" title="Twitch" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>
     <a href="https://linkedin.com/in/kanbaru"><img alt="LinkedIn" title="LinkedIn" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+    <a href="https://ko-fi.com/notkanbaru"><img alt="Ko-fi" title="Ko-fi" height="30" width="30" src="https://theme.zdassets.com/theme_assets/2141020/171bb773b32c4a72bcc2edfee4d01cbc00d8a004.png"></a>
 </p>
-  <a href="https://ko-fi.com/notkanbaru"><img alt="Ko-fi" title="Ko-fi" height="30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/ko-fi.svg"></a>
