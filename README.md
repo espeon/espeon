@@ -2,7 +2,9 @@
 
 here's what i'm currently listening to!! (or just my latest track on last.fm!):
 
+<a href="https://last.fm/user/kanb">
 <img src="https://github-readme-lastfm.vercel.app/?username=kanb" width="450px">
+  </a>
 
 I use these things here:
 
