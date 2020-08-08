@@ -8,13 +8,14 @@ I use these things here:
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png" width="30px">
-  <img src="https://www.rustacean.net/assets/rustacean-flat-happy.png" width="53px">
+  <img src="https://www.rustacean.net/favicon.png" width="31px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="30px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="30px">
 </p>
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="30px">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/150px-Sublime_Text_3_logo.png" width="30px">
 </p>
 <!--
 **notkanbaru/notkanbaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
