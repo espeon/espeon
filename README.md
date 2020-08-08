@@ -1,7 +1,7 @@
 ### hey, i'm emma!
 
 here's what i'm currently listening to!! (or just my latest track on last.fm!)
-[https://last.fm/user/kanb](https://github-readme-lastfm.vercel.app/?username=kanb)
+![https://last.fm/user/kanb](https://github-readme-lastfm.vercel.app/?username=kanb)
 
 <!--
 **notkanbaru/notkanbaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
