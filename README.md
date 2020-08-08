@@ -24,9 +24,6 @@ Me on other places:
   <img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" height="30px">
     </a>
   <a href="https://twitch.tv/notkanbaru"><img alt="Twitch" title="Twitch" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>
-    <a href="https://linkedin.com/in/kanbaru"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+    <a href="https://linkedin.com/in/kanbaru"><img alt="LinkedIn" title="LinkedIn" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+  <a href="https://ko-fi.com/notkanbaru"><img alt="Ko-fi" title="Ko-fi" height="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/ko-fi.svg"></a>
 </p>
-
-If you like my stuff, feel free to give me money here (lol):
-
-<a href="https://ko-fi.com/notkanbaru"><img alt="Ko-fi" title="Ko-fi" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/ko-fi.svg"></a>
