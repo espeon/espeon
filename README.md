@@ -20,12 +20,12 @@ I use these things here:
 Me on other places:
 <p align="left">
   <a href="https://discord.com/invite/bV5nBK7"><img alt="Discord" title="Discord" height="30" width="30"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
-  <a href="https://twitter.com/notkanbaru"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Twitter_bird_logo_2012.svg/100px-Twitter_bird_logo_2012.svg.png" height="30px" width="30">
+  <a href="https://twitter.com/emmaischic"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Twitter_bird_logo_2012.svg/100px-Twitter_bird_logo_2012.svg.png" height="30px" width="30">
     </a>
   <a href="https://keybase.io/emmais">
   <img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" height="30px" width="30">
     </a>
-  <a href="https://twitch.tv/notkanbaru"><img alt="Twitch" title="Twitch" height="30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>
+  <a href="https://twitch.tv/isanemma"><img alt="Twitch" title="Twitch" height="30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>
     <a href="https://linkedin.com/in/kanbaru"><img alt="LinkedIn" title="LinkedIn" height="30"  width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
     <a href="https://ko-fi.com/kanbaru"><img alt="Ko-fi" title="Ko-fi" height="30" width="30" src="https://theme.zdassets.com/theme_assets/2141020/171bb773b32c4a72bcc2edfee4d01cbc00d8a004.png"></a>
 </p>
