@@ -18,9 +18,9 @@ I use these things here:
 </p>
 
 Me on other places:
-<p align="left">
+<p align="left" margin="auto">
   <a href="https://discord.com/invite/bV5nBK7"><img alt="Discord" title="Discord" height="30" width="30"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
-  <a href="https://twitter.com/emmaischic"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Twitter_bird_logo_2012.svg/100px-Twitter_bird_logo_2012.svg.png" height="30px" width="30">
+  <a href="https://twitter.com/emmaischic"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" height="30" width="30">
     </a>
   <a href="https://keybase.io/emmais">
   <img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" height="30px" width="30">
