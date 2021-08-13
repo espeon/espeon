@@ -9,7 +9,7 @@ here's what i'm currently listening to!! (or just my latest track on last.fm!):
 I use these things here:
 
 <p align="left">
-  <img alt="Ferris Icon" src="https://www.rustacean.net/favicon.png" height="31px" width="30">
+  <img alt="Ferris Icon" src="https://i.imgur.com/XHwQQjY.png" height="31px" width="30">
   <img alt="Typescript Icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" height="30px" width="30">
   <img alt="Javascript Icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height="30px" width="30">
   <img alt="VSCode icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height="30px" width="30">
