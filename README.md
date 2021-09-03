@@ -1,4 +1,4 @@
-### 👋 hey, i'm emma! <a href="https://iriie.io">🐱‍💻</a>
+### 👋 hey, i'm natalie! <a href="https://iriie.io">🐱‍💻</a>
 
 here's what i'm currently listening to!! (or just my latest track on last.fm!):
 
@@ -27,12 +27,12 @@ I am (attempting to) learn:
 Me on other places:
 <p align="left" margin="auto">
   <a href="https://discord.com/invite/bV5nBK7"><img alt="Discord" title="Discord" height="30" width="30"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
-  <a href="https://twitter.com/emmaischic"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" height="30" width="30">
+  <a href="https://twitter.com/natalielier"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" height="30" width="30">
     </a>
   <a href="https://keybase.io/emmais">
   <img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" height="30px" width="30">
     </a>
-  <a href="https://twitch.tv/isanemma"><img alt="Twitch" title="Twitch" height="30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>
+  <a href="https://twitch.tv/natelier"><img alt="Twitch" title="Twitch" height="30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>
     <a href="https://linkedin.com/in/kanbaru"><img alt="LinkedIn" title="LinkedIn" height="30"  width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
     <a href="https://ko-fi.com/kanbaru"><img alt="Ko-fi" title="Ko-fi" height="30" width="30" src="https://theme.zdassets.com/theme_assets/2141020/171bb773b32c4a72bcc2edfee4d01cbc00d8a004.png"></a>
 </p>
