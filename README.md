@@ -21,7 +21,7 @@ I am (attempting to) learn:
 <p align="left">
   <img alt="C Sharp Icon" src="https://i.imgur.com/mBt8Bmz.png" height="30px" width="30">
   <img alt="C++ Icon" src="https://i.imgur.com/S9FVMBD.png" height="31px" width="30">
-  <img alt="Python Icon" src="https://i.imgur.com/GZRmmx6.png" height="31px" width="30">
+  <img alt="Swift Icon" src="https://i.imgur.com/PuVyuMc.png" height="31px" width="30">
 </p>
 
 Me on other places:
@@ -32,7 +32,7 @@ Me on other places:
   <a href="https://keybase.io/emmais">
   <img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" height="30px" width="30">
     </a>
-  <a href="https://twitch.tv/natelier"><img alt="Twitch" title="Twitch" height="30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>
+  <a href="https://twitch.tv/natelier"><img alt="Twitch" title="Twitch" height="28" width="30" src="https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/0/09/Twitch_Logo.svg"></a>
     <a href="https://linkedin.com/in/kanbaru"><img alt="LinkedIn" title="LinkedIn" height="30"  width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
     <a href="https://ko-fi.com/kanbaru"><img alt="Ko-fi" title="Ko-fi" height="30" width="30" src="https://theme.zdassets.com/theme_assets/2141020/171bb773b32c4a72bcc2edfee4d01cbc00d8a004.png"></a>
 </p>
