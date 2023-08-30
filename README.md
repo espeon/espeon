@@ -26,13 +26,13 @@ I am (attempting to) learn:
 
 Me on other places:
 <p align="left" margin="auto">
-  <a href="https://discord.com/invite/bV5nBK7"><img alt="Discord" title="Discord" height="30" width="30"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
-  <a href="https://twitter.com/natalielier"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" height="30" width="30">
+  <a href="https://discord.com/invite/bV5nBK7"><img alt="Discord" title="Discord" height="30" width="30"  src="https://github.com/espeon/espeon/assets/22222885/c91d078b-e90f-493d-9101-03837f00007f"></a>
+  <a href="https://bsky.app/profile/natalie.sh"><img src="https://github.com/espeon/espeon/assets/22222885/67fb4384-678b-4481-a3cf-020a785ec03a" height="30" width="30">
     </a>
   <a href="https://keybase.io/emmais">
   <img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" height="30px" width="30">
     </a>
   <a href="https://twitch.tv/natelier"><img alt="Twitch" title="Twitch" height="28" width="30" src="https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/0/09/Twitch_Logo.svg"></a>
-    <a href="https://linkedin.com/in/kanbaru"><img alt="LinkedIn" title="LinkedIn" height="30"  width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+    <a href="https://linkedin.com/in/kanbaru"><img alt="LinkedIn" title="LinkedIn" height="30"  width="30" src="https://github.com/espeon/espeon/assets/22222885/0386a8e7-45a2-4bd9-ab3e-ce5573238220"></a>
     <a href="https://ko-fi.com/kanbaru"><img alt="Ko-fi" title="Ko-fi" height="30" width="30" src="https://theme.zdassets.com/theme_assets/2141020/171bb773b32c4a72bcc2edfee4d01cbc00d8a004.png"></a>
 </p>
