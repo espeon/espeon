@@ -26,7 +26,7 @@ I use these things here:
 I am (attempting to) learn:
 
 <p align="left">
-  <img alt="Go icon" src="https://cdn.discordapp.com/emojis/408069284418420736.webp?size=96&quality=lossless" width="60">
+  <img alt="Go icon" src="https://cdn.discordapp.com/emojis/408069284418420736.webp?size=96&quality=lossless" height="30">
 </p>
 
 Me elsewhere:
