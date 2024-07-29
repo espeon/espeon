@@ -1,11 +1,14 @@
-### 👋 hey, i'm natalie! <a href="https://iriie.io">🐱‍💻</a>
+### 👋 hey, i'm natalie! <a href="https://natalie.sh">🐱‍💻</a>
 
 here's what i'm currently listening to!! (or just my latest track on last.fm!):
 
 <a href="https://last.fm/user/kanb">
 <img src="https://github-readme-lastfm.vercel.app/?username=kanb" height="100px"></a>
 
-I use these things here:
+<br />
+<br />
+
+i use these things here:
 <p align="left">
   <a href="https://www.rust-lang.org/"><img alt="Ferris Icon" src="https://i.imgur.com/XHwQQjY.png" height="31px" width="30"></a>
   <a href="https://www.typescriptlang.org/"><img alt="Typescript Icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" height="30px" width="30"></a>
@@ -34,14 +37,14 @@ I use these things here:
 </p>
 
 
-I am (attempting to) learn:
+i am (attempting to) learn:
 <p align="left">
   <a href="https://go.dev/"><img alt="Go icon" src="https://cdn.discordapp.com/emojis/408069284418420736.webp?size=96&quality=lossless" height="30"></a>
   <a href="https://kubernetes.io/"><img alt="k8s Icon" src="https://github.com/user-attachments/assets/8536b1d0-eb06-407e-a93f-c960c64e115b" height="30"></a>
   <a href="https://k0sproject.io/"><img alt="k0s Icon" src="https://github.com/user-attachments/assets/09fa810c-fd49-412c-9833-bfa668dfd7c0" height="30"></a>
 </p>
 
-Me elsewhere:
+me elsewhere:
 <p align="left" margin="auto">
   <a href="https://discord.com/invite/bV5nBK7"><img alt="Discord" title="Discord" height="30" width="30"  src="https://github.com/espeon/espeon/assets/22222885/c91d078b-e90f-493d-9101-03837f00007f"></a>
   <a href="https://bsky.app/profile/natalie.sh"><img src="https://github.com/espeon/espeon/assets/22222885/67fb4384-678b-4481-a3cf-020a785ec03a" width="30"></a>
