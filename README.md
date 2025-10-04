@@ -10,6 +10,7 @@ here's what i'm currently listening to!! (or just my latest track on last.fm!):
 
 i use these things here:
 <p align="left">
+  <a href="https://go.dev/"><img alt="Go icon" src="https://cdn.discordapp.com/emojis/408069284418420736.webp?size=96&quality=lossless" height="30"></a>
   <a href="https://www.rust-lang.org/"><img alt="Ferris Icon" src="https://i.imgur.com/XHwQQjY.png" height="31px" width="30"></a>
   <a href="https://www.typescriptlang.org/"><img alt="Typescript Icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" height="30px" width="30"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="Javascript Icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height="30px" width="30"></a>
@@ -39,7 +40,6 @@ i use these things here:
 
 i am (attempting to) learn:
 <p align="left">
-  <a href="https://go.dev/"><img alt="Go icon" src="https://cdn.discordapp.com/emojis/408069284418420736.webp?size=96&quality=lossless" height="30"></a>
   <a href="https://kubernetes.io/"><img alt="k8s Icon" src="https://github.com/user-attachments/assets/8536b1d0-eb06-407e-a93f-c960c64e115b" height="30"></a>
   <a href="https://k0sproject.io/"><img alt="k0s Icon" src="https://github.com/user-attachments/assets/09fa810c-fd49-412c-9833-bfa668dfd7c0" height="30"></a>
 </p>
